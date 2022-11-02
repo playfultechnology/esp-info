@@ -1,13 +1,18 @@
 # esp-info
 
-## ESP32
+## Geekcreit / MH-ET Live ESP32DevKit
 6x
 WROOM32 chip
 38pin, 1.0" (25.4mm) spacing
+PCB Footprint: NODEMCU-ESP32S
+Very nice quality, but too wide for expansion board or breadboard
+https://www.banggood.com/ESP32-WiFi-+-bluetooth-Development-Board-Ultra-Low-Power-Consumption-Dual-Core-ESP-32-ESP-32S-Similar-ESP8266-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1175488.html
 
 ## Node-MCU ESP-32S v1.1
-4x 38pin, 0.9" (22.86mm) spacing
+5x 38pin, 0.9" (22.86mm) spacing
 PCB Footprint: AI-THINKER_NODEMCU-32SLUA
+https://www.banggood.com/Keyes-ESP32-WROOM-32-Module-Core-Board-ESP32-ESP-32-bluetooth-and-WIFI-MCU-p-1756083.html
+Comptabile with brekaout boards such as https://www.banggood.com/Keyes-ESP32-Core-Board-Development-Expansion-Board-Equipped-with-WROOM-32-Module-p-1756023.html
 
 ## DevKit v1 DOIT
 1x
