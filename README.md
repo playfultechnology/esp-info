@@ -6,6 +6,7 @@ WROOM32 chip
 38pin, 1.0" (25.4mm) spacing
 PCB Footprint: NODEMCU-ESP32S
 Very nice quality, but too wide for expansion board or breadboard
+Note that to upload sketch you have to hold the boot button down, press the EN button and release the boot button.
 https://www.banggood.com/ESP32-WiFi-+-bluetooth-Development-Board-Ultra-Low-Power-Consumption-Dual-Core-ESP-32-ESP-32S-Similar-ESP8266-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1175488.html
 
 ## Node-MCU ESP-32S v1.1
